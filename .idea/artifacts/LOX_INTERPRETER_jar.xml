@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LOX-INTERPRETER:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LOX_INTERPRETER_jar</output-path>
+    <root id="archive" name="LOX-INTERPRETER.jar">
+      <element id="module-output" name="LOX-INTERPRETER" />
+    </root>
+  </artifact>
+</component>
